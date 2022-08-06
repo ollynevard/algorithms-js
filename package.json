@@ -1,0 +1,21 @@
+{
+  "name": "algorithms-js",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Various algorithms written in JavaScript",
+  "scripts": {
+    "prepare": "pre-commit install",
+    "test": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "author": "Olly Nevard",
+  "license": "MIT",
+  "devDependencies": {
+    "c8": "^7.12.0",
+    "standard": "^17.0.0",
+    "vitest": "^0.21.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
