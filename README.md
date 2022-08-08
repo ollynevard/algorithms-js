@@ -24,6 +24,7 @@ A collection of algorithms implemented in JavaScript. Each algorithim includes a
 <a href="#algorithms-in-javascript">Back to top</a>
 
 - <a href="./src/twoSum">Two sum</a>
+- <a href="./src/maxProfit">Best time to buy and sell stock</a>
 
 ## 📋 System requirements
 

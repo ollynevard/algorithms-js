@@ -11,3 +11,8 @@ You may assume that each input would have _**exactly one solution**_, and you ma
 not use the same element twice.
 
 You can return the answer in any order.
+
+## Solution
+
+**Time complexity:** O(n)<br />
+**Space complexity:** O(n)
